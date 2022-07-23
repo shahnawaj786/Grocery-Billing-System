@@ -27,7 +27,7 @@ void shopping:: menu()
     string password;
     cout << "\t\t\t\t\t\t__________________________\n";
     cout << "\t\t\t\t\t\t__________________________\n";
-    cout << "\t\t\t\t\t\t_________SuperMarket main Menu_______\n";
+    cout << "\t\t\t\t\t\t_________GROCERY main Menu_______\n";
     cout<< "\t\t\t\t\t\t__________________________\n";
     cout << "\t\t\t\t\t\t                       \n";
     cout<< "\t\t\t\t\t|   1) Administrator   |\n";
